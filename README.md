@@ -30,15 +30,23 @@ Explore a vast and diverse catalog of tech products, ranging from smartphones an
 
 Our intuitive and user-friendly interface, developed with Next.js and TypeScript, is powered by a robust backend infrastructure using Node.js and MongoDB with Payload CMS. This technology stack ensures a smooth and responsive shopping experience.
 
-### 3. Secure Transactions
+### 3. Admin Dashboard
+
+- **Dashboard Overview**: Manage your e-commerce store efficiently with our admin dashboard. Get insights into sales, customer data, and product performance in real-time.
+
+- **Product Management**: Easily add, update, or remove products from the catalog. The admin dashboard provides a user-friendly interface for seamless product management.
+
+- **Order Processing**: Streamline order processing and fulfillment with order tracking and management tools available in the admin dashboard.
+
+### 4. Secure Transactions
 
 Tech Craze takes your online security seriously. With the integration of Stripe, all transactions are encrypted and processed securely to protect your personal and financial information.
 
-### 4. Responsive Design
+### 5. Responsive Design
 
 Whether you're browsing on a desktop, tablet, or smartphone, Tech Craze adapts to your device's screen size, providing a seamless and responsive experience. The frontend, built with Next.js, ensures a dynamic and user-friendly design.
 
-### 5. Regular Updates
+### 6. Regular Updates
 
 Stay in the loop with the latest tech trends and releases. Tech Craze, powered by a modern technology stack, allows for efficient content management and regular updates. We continuously add new products and features to keep you informed and ensure you have access to the newest innovations.
 
